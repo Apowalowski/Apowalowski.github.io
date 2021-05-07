@@ -1,0 +1,25 @@
+body {
+    background-image: url('/images/background image.jpg');
+    background-color: #f8f2f2;
+    background-size: cover;
+   }
+  * p {color:rgb(0, 247, 255)
+
+  } 
+  h1{font-style:oblique}
+
+  h1{color: lightcoral;}
+
+  h2{font-style:initial;}
+
+  h2{
+      color:lightcoral;
+  }
+
+  h3{
+      font-style: italic;
+  }
+
+  *{text-align: center;}
+
+  h3{color:lightcoral;}
